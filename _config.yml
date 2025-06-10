@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "DoYeop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자 지망생생"
+  bio              : "개발자 지망생"
   location         : "Seoul, South Korea"
   email            :
   links:
