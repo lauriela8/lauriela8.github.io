@@ -1,6 +1,7 @@
 ---
+layout: single
 title: "내 첫 블로그 글!"
-date: 2025-06-11 21:00:00 +0900
+date: 2025-06-10 11:12:00 +0900
 categories: [공부일지, Verilog]
 ---
 
