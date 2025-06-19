@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Doyeop's Blog # the main title
+title: Doyeop # the main title
 
 tagline: 반도체 설계 엔지니어가 되기 위한 여정 # it will display as the subtitle
 
